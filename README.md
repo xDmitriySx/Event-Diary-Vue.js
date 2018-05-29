@@ -1,6 +1,7 @@
 # events_diary
 
-> A Vue.js project
+> A Vue.js project. 
+You can overview this project here - https://events-diary-96a4b.firebaseapp.com/
 
 ## Build Setup
 
